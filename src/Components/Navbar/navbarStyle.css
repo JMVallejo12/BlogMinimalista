@@ -1,0 +1,31 @@
+.navbar-super-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+
+.li-item{
+    text-decoration: none;
+    margin-left: 10px;
+    height: 20px;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    color: rgb(0, 119, 0);
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}
+
+/* .li-item:hover{
+    border-bottom: 2px solid red;
+} */

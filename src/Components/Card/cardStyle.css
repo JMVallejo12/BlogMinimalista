@@ -1,0 +1,34 @@
+.card-super-container{
+    /* border: 1px solid black; */
+    width: 250px;
+    height: 400px;
+    margin: 1em;
+}
+
+.img-card{
+    width: 250px;
+    border-radius: 15px;
+
+}
+
+.card-down{
+    /* padding-left: 5px; */
+}
+
+.title-simple-card{
+    font-size: 24px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-card{
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}

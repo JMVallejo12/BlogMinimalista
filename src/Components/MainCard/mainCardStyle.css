@@ -1,0 +1,41 @@
+.img-main-card{
+    width: 400px;
+    border-radius: 15px;
+}
+
+.main-card-super-container{
+    display: flex;
+    align-items: center;
+    /* border: 1px solid black; */
+    justify-content: center;
+}
+
+.card-right{
+    margin-left: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 35px;
+}
+
+.main-title-container{
+    font-size: 24px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+.main-text-container{
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+
+    font-size: 18px;
+}
